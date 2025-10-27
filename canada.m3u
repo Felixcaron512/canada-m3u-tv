@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3f/ICI_Télé_Logo.png", ICI Télé (Radio-Canada)
+https://rcavlive.akamaized.net/hls/live/704675/RDI/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e2/Logo_Télé-Québec.png", Télé-Québec
+https://teleq.stream.tek-tv.net/live/telequebec/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/TVA_2020_logo.png", TVA+
+https://www.tva.ca/live
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Noovo_logo_2020.png", Noovo
+https://bellmedia-switch-channel.live/noovo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/TV5MONDE_Logo.png", TV5 Québec Canada
+https://ott.tv5unis.ca/live/unis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://savoir.media/logo.png", Savoir Média
+https://savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://chom.com/favicon.ico", Télé-Mag Québec
+https://hls.tele-mag.tv/live/TLM/index.m3u8
