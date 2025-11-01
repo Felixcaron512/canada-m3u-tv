@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CBFT Première" tvg-logo="https://i.imgur.com/nQlD8xD_d.webp?maxwidth=760&fidelity=grand" group-title="Actualité",ICI Radio-Canada Télé Montréal
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/lQHH8xq.png" group-title="Actualité",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CBC News Toronto 7" tvg-logo="https://i.imgur.com/nQlD8xD_d.webp?maxwidth=760&fidelity=grand" group-title="Actualité",CBC News - Toronto
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nQlD8xD_d.webp?maxwidth=760&fidelity=grand" group-title="Actualité",ICI Radio-Canada Télé Montréal
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:-1 tvg-name="CJBR Rimouski" tvg-logo="https://i.imgur.com/nQlD8xD_d.webp?maxwidth=760&fidelity=grand" group-title="Actualité",ICI Radio-Canada Télé Rimouski
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+#EXTINF:-1 tvg-name="Holidayscapes" tvg-logo="https://i.imgur.com/n2JqfHE_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 tvg-name="Noovo Cinéma" tvg-logo="https://i.imgur.com/D0841CT.png" group-title="Films",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+#EXTINF:-1 tvg-name="Noovo Comédies" tvg-logo="https://i.imgur.com/D0841CT.png" group-title="Comédies",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+#EXTINF:-1 tvg-name="Noovo Télé-réalités" tvg-logo="https://i.imgur.com/D0841CT.png" group-title="Télé-réalités",Noovo Télé-réalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+#EXTINF:-1 tvg-name="Ontario Parliamentary Network (EN)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="Actualité",Ontario Parliamentary Network (EN)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-name="Ontario Parliamentary Network (FR)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="Actualité",Ontario Parliamentary Network (FR)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-name="RDI" tvg-logo="https://i.imgur.com/D7JeFa8_d.webp?maxwidth=760&fidelity=grand" group-title="Actualité",ICI RDI - Radio Canada
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-name="Savoir. Média" tvg-logo="https://i.imgur.com/bMcpBmS_d.webp?maxwidth=760&fidelity=grand" group-title="Actualité",Savoir. Média
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-name="Stingray Classic Rock" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-name="Stingray Classica" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic.ca@SD" tvg-name="Stingray CMusic" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-name="Stingray DJAZZ" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-name="Stingray Easy Listening" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca@SD" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca@SD" tvg-name="Stingray Flashback 70s" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca@SD" tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca@SD" tvg-name="Stingray Holiday Hits" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca@SD" tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoke" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca@SD" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/n2JqfHE_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.ca@SD" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult.ca@SD" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative.ca@SD" tvg-name="Stingray Rock Alternative" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-name="Stingray Romance Latino" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz.ca@SD" tvg-name="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca@SD" tvg-name="Stingray Soul Storm" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa.ca@SD" tvg-name="Stingray The Spa" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-name="Stingray Today's KPOP" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca@SD" tvg-name="Stingray Urban Beat" tvg-logo="https://i.imgur.com/xf6b1K9_d.webp?maxwidth=760&fidelity=grand" group-title="Musique et Radio",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-name="TVA Nouvelles" tvg-logo="https://i.imgur.com/eUkr0vS.png" group-title="Actualité",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+#EXTINF:-1 tvg-name="LCN" tvg-logo="https://i.imgur.com/ugWCsJg.png" group-title="Actualité",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVbuzvs_d.webp?maxwidth=760&fidelity=grand" group-title="Actualité",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stEErjI_d.webp?maxwidth=760&fidelity=grand" group-title="Sports",FIFA +
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxFercA.png" group-title="Actualité",France 24
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
