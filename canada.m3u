@@ -1,21 +1,46 @@
 #EXTM3U
 
-# ICI RDI (info, accessible depuis le Canada)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c8/ICI_RDI.svg",ICI RDI
-https://rcavlive.akamaized.net/hls/live/704675/RDI/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ontario Parliamentary Network (EN)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (EN)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
-# CBC News Network (anglais)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/CBC_logo_2017.svg",CBC News Network
-https://cbclive.akamaized.net/hls/live/2038201/CBCNews/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ontario Parliamentary Network (FR)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (FR)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
-# CPAC (français/anglais, parlementaire)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/CPAC_logo.svg",CPAC
-https://d7z3qzrkktmj6.cloudfront.net/cpac_live/cpac.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVA Montréal" tvg-logo="" group-title="CANADA",TVA Montréal
+https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 
-# TV5 Unis Canada (documentaire, culture)
-#EXTINF:-1 tvg-logo="https://ott.tv5unis.ca/branding/favicon.ico",TV5 Unis Canada
-https://ott.tv5unis.ca/live/unis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RDI" tvg-logo="" group-title="CANADA",RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-# CHEK TV (Colombie-Britannique - local)
-#EXTINF:-1 tvg-logo="https://www.cheknews.ca/wp-content/themes/chek/images/cheknews-logo.svg",CHEK TV
-https://bc.cheknews.ca/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Savoir Média" tvg-logo="" group-title="CANADA",Savoir Média
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBFT Montréal" tvg-logo="" group-title="CANADA",CBFT Montréal
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Music 140" tvg-logo="" group-title="MUSIQUE",Stingray Music 140
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Music 108" tvg-logo="" group-title="MUSIQUE",Stingray Music 108
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Toronto 7" tvg-logo="" group-title="CANADA",CBC Toronto 7
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC Toronto 8" tvg-logo="" group-title="CANADA",CBC Toronto 8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CBFT Première" tvg-logo="" group-title="CANADA",CBFT Première
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CJBR Rimouski" tvg-logo="" group-title="CANADA",CJBR Rimouski
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Noovo Cinéma" tvg-logo="" group-title="NOOVO",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Noovo Télé-réalités" tvg-logo="" group-title="NOOVO",Noovo Télé-réalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVA National" tvg-logo="" group-title="CANADA",TVA National
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
