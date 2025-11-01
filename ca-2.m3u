@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:10,Channel 1
-tvg-id="" tvg-name="Ontario Parliamentary Network (EN)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (EN)
+#EXTINF:123, Titre de la Chanson
+http://www.example.com/song.mp3
+
+#EXTINF: 10,tvg-id="" tvg-name="Ontario Parliamentary Network (EN)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (EN)
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ontario Parliamentary Network (FR)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (FR)
