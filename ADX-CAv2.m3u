@@ -1,0 +1,112 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="CBFT Première" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",CBFT Première
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="CBC Toronto 7" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",CBC Toronto 7
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-name="CBC Toronto 8" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",CBC Toronto 8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="CJBR Rimouski" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",CJBR Rimouski
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-id="" tvg-name="Holidayscapes" tvg-logo="https://urls.fr/9nCv1V" group-title="MUSIQUE - Stingray",Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-id="" tvg-name="Noovo Cinéma" tvg-logo="https://i.imgur.com/ppJ88Ey.png" group-title="NOOVO",Noovo Cinéma
+https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="" tvg-name="Noovo Comédies" tvg-logo="https://i.imgur.com/ppJ88Ey.png" group-title="NOOVO",Noovo Comédies
+https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8
+
+#EXTINF:-1 tvg-chno="8" tvg-id="" tvg-name="Noovo Télé-réalités" tvg-logo="https://i.imgur.com/ppJ88Ey.png" group-title="NOOVO",Noovo Télé-réalités
+https://d29qczaufx5vc3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxg2k6h0o2l6i/Noovo_Telerealites.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-id="" tvg-name="Ontario Parliamentary Network (EN)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (EN)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="Ontario Parliamentary Network (FR)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (FR)
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-id="QelloConcertsbyStingray.ca@SD" tvg-name="Qello Concerts by Stingray" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="RDI" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-id="" tvg-name="Savoir Média" tvg-logo="https://i.imgur.com/jJb5gvb_d.webp?maxwidth=760&fidelity=grand" group-title="CANADA",Savoir Média
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-id="StingrayClassicRock.ca@SD" tvg-name="Stingray Classic Rock" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-id="StingrayClassica.ca@SD" tvg-name="Stingray Classica" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-id="StingrayCMusic.ca@SD" tvg-name="Stingray CMusic" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-id="StingrayDJAZZ.ca@SD" tvg-name="Stingray DJAZZ" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="StingrayEasyListening.ca@SD" tvg-name="Stingray Easy Listening" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-id="StingrayEverything80s.ca@SD" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="StingrayFlashback70s.ca@SD" tvg-name="Stingray Flashback 70s" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="StingrayHitList.ca@SD" tvg-name="Stingray Hit List" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-id="StingrayHolidayHits.ca@SD" tvg-name="Stingray Holiday Hits" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="StingrayHotCountry.ca@SD" tvg-name="Stingray Hot Country" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-id="StingrayKaraoke.ca@SD" tvg-name="Stingray Karaoke" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="StingrayNaturescape.ca@SD" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-id="StingrayNothinBut90s.ca@SD" tvg-name="Stingray Nothin' But 90s" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-id="StingrayPopAdult.ca@SD" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-id="StingrayRockAlternative.ca@SD" tvg-name="Stingray Rock Alternative" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-id="StingrayRomanceLatino.ca@SD" tvg-name="Stingray Romance Latino" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-id="StingraySmoothJazz.ca@SD" tvg-name="Stingray Smooth Jazz" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-id="StingraySoulStorm.ca@SD" tvg-name="Stingray Soul Storm" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-id="StingrayTheSpa.ca@SD" tvg-name="Stingray The Spa" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="StingrayTodaysKPop.ca@SD" tvg-name="Stingray Today's KPOP" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-id="StingrayTodaysLatinPop.ca@SD" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="StingrayUrbanBeat.ca@SD" tvg-name="Stingray Urban Beat" tvg-logo="https://i.imgur.com/pTx9A11.jpeg" group-title="MUSIQUE - Stingray",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-id="" tvg-name="TVA (DAI)" tvg-logo="https://i.imgur.com/oP96E6h.png" group-title="CANADA",TVA (DAI)
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="TVA National" tvg-logo="https://i.imgur.com/oP96E6h.png" group-title="CANADA",TVA National
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
