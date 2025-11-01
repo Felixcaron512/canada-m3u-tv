@@ -6,17 +6,11 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="Ontario Parliamentary Network (FR)" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" group-title="CANADA",Ontario Parliamentary Network (FR)
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVA Montréal" tvg-logo="" group-title="CANADA",TVA Montréal
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="RDI" tvg-logo="" group-title="CANADA",RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Savoir Média" tvg-logo="" group-title="CANADA",Savoir Média
 https://hls.savoir.media/live/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CBFT Montréal" tvg-logo="" group-title="CANADA",CBFT Montréal
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Music 140" tvg-logo="" group-title="MUSIQUE",Stingray Music 140
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
