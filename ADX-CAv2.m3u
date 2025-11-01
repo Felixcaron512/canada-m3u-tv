@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="" tvg-name="CBFT Première" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",CBFT Première
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CBFT Montréal" tvg-logo="" group-title="CANADA",CBFT Montréal
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Live" tvg-logo="" group-title="AUTRES",Uplynk Channel
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="CBC Toronto 7" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",CBC Toronto 7
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 
@@ -11,6 +17,9 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5
 
 #EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="CJBR Rimouski" tvg-logo="https://www.typeinvestigations.org/wp-content/uploads/2018/06/CBC_Logo_Horizontal_v2-e1528311131104.jpg" group-title="CANADA",CJBR Rimouski
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Naturescape" tvg-logo="" group-title="FOYER",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="" tvg-name="Holidayscapes" tvg-logo="https://urls.fr/9nCv1V" group-title="MUSIQUE - Stingray",Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
