@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1, Nom du Canal
+http://streaming.example.com/iptv.m3u8
 
 #EXTINF:123, Titre de la Chanson
 http://www.example.com/song.mp3
